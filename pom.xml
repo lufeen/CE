@@ -12,6 +12,7 @@
 	<artifactId>CurrencyExchangeService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CurrencyExchangeConverterApp</name>
+	 <packaging>jar</packaging>  
 	<description>MicroService Currency Conversion </description>
 
 	<properties>
